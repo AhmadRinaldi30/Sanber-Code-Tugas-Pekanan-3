@@ -1,0 +1,2 @@
+export const baseUrl = "https://kasir-api.zelz.my.id"; 
+export const tokenBarrier = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNlYzY1ZWYxLWU1YjQtNGZkYi1hMjY5LTgwOTY0N2ZhNDNjNiIsImNvbXBhbnlJZCI6IjgxMmRkNTVlLTVlZjEtNGMzMS04MzhhLTdlZmE2ZmRmOTMyYyIsImlhdCI6MTcyNzYyNzAzNH0.POH8a9_bgPtCnH5G07M5GvCkFYYM4dG1Hr-GYmgtf4U";

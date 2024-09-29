@@ -1,0 +1,21 @@
+{
+  "name": "sanber-code-tugas-pekanan-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx mocha --reporter mochawesome"
+  },
+  "author": "Ahmad Rinaldi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "jsonschema": "^1.4.1",
+    "supertest": "^7.0.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
