@@ -1,17 +1,16 @@
 import request from "supertest";
 import { expect } from "chai";
-import { createProduct } from "../../function/Product/createProduct.spec.js";
+import { createProduct } from "../function/Product/createProduct.spec.js";
 // import { getToken } from "../../function/getToken.spec.js";
-import { tokenBarrier } from "../../data/config.js";
-import { getProductAll} from "../../function/Product/getProduct.spec.js";
-import { getProductParams} from "../../function/Product/getProduct.spec.js";
-import { id_category, id_product } from "../../data/parameter.js";
-import { updateProduct } from "../../function/Product/updateProduct.spec.js";
-import { id_product } from "../../data/parameter.js";
-import { deleteProduct } from "../../function/Product/deleteProduct.spec.js"
+import { tokenBarrier } from "../data/config.js";
+import { getProductAll} from "../function/Product/getProduct.spec.js";
+import { getProductParams} from "../function/Product/getProduct.spec.js";
+import { id_category, id_product } from "../data/parameter.js";
+import { updateProduct } from "../function/Product/updateProduct.spec.js";
+import { deleteProduct } from "../function/Product/deleteProduct.spec.js"
 // import { id_customer } from "../../data/parameter.js";
 
-const id_product_delete = "7868bd3e-3f9b-414e-9bef-53035d5837a4";
+const id_product_delete = "aa517d16-4731-43fa-97a7-be419343d165";
 const p = 1;
 const nm_product = "Testing Produk NEW";
 

@@ -1,13 +1,13 @@
 import request from "supertest";
 import { expect } from "chai";
-import { addCustomer } from "../../function/Customer/createCustomer.spec.js";
-import { updateCustomer } from "../../function/Customer/updateCustomer.spec.js"
+import { addCustomer } from "../function/Customer/createCustomer.spec.js";
+import { updateCustomer } from "../function/Customer/updateCustomer.spec.js"
 // import { getToken } from "../../function/getToken.spec.js";
-import { tokenBarrier } from "../../data/config.js";
-import { getAllCustomer} from "../../function/Customer/getCustomer.spec.js";
-import { getCustomerId} from "../../function/Customer/getCustomer.spec.js";
-import { id_customer } from "../../data/parameter.js";
-import { deleteCustomer } from "../../function/Customer/deleteCustomer.spec.js"
+import { tokenBarrier } from "../data/config.js";
+import { getAllCustomer} from "../function/Customer/getCustomer.spec.js";
+import { getCustomerId} from "../function/Customer/getCustomer.spec.js";
+import { id_customer } from "../data/parameter.js";
+import { deleteCustomer } from "../function/Customer/deleteCustomer.spec.js"
 
 const id_customer_delete = "674475ec-d882-49c5-aeee-af0d2d14a189";
 // describe End to End - CRUD Customer

@@ -1,11 +1,11 @@
 import request from "supertest";
 import { expect } from "chai";
-import { createTransaction } from "../../function/Transaction/createTransaction.spec.js";
+import { createTransaction } from "../function/Transaction/createTransaction.spec.js";
 // import { getToken } from "../../function/getToken.spec.js";
-import { tokenBarrier } from "../../data/config.js";
-import { getTransactionAll } from "../../function/Transaction/getTransaction.spec.js";
-import { getTransactionId } from "../../function/Transaction/getTransaction.spec.js";
-import { id_category, id_product, id_purchases } from "../../data/parameter.js";
+import { tokenBarrier } from "../data/config.js";
+import { getTransactionAll } from "../function/Transaction/getTransaction.spec.js";
+import { getTransactionId } from "../function/Transaction/getTransaction.spec.js";
+import { id_category, id_product, id_purchases } from "../data/parameter.js";
 
 
 
