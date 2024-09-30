@@ -23,7 +23,7 @@ Langkah running test
 
     Report testing endtoend Categories :
 
-   <img width="783" alt="2024-09-30_001410" src="https://github.com/user-attachments/assets/9e20f221-2f15-413f-9673-feb14ec4ad8a">
+   <img width="600" alt="2024-09-30_001410" src="https://github.com/user-attachments/assets/9e20f221-2f15-413f-9673-feb14ec4ad8a">
    <img width="600" alt="2024-09-30_001418" src="https://github.com/user-attachments/assets/c4198bed-22f9-49f7-b2e0-18e155c8b9e7">
    <img width="600" alt="2024-09-30_001424" src="https://github.com/user-attachments/assets/75485986-49bc-4c1e-89a1-ce34665c5445">
 	
